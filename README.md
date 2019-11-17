@@ -6,6 +6,3 @@ https://taraal.github.io/
 - Affichage des questions
 - Validation d'un questionnaire
 - Affichage d'un score
-
-(Fin du projet) : 
-- Idk 
