@@ -1,24 +1,11 @@
-# app-questionnaire-vue
+# Lien de déploiement : 
+https://taraal.github.io/
 
-## Project setup
-```
-npm install
-```
+# Objectifs :
+(05/11/2019) : 
+- Affichage des questions
+- Validation d'un questionnaire
+- Affichage d'un score
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+(Fin du projet) : 
+- Idk 

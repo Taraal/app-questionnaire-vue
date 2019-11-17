@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Quel est le meilleur langage de dev ?",
+      "answers": ["Python", "Javascript", "PHP"],
+      "correct": [true, false, false],
+      "user": [false, false, false]
+    },
+    {
+      "name": "Suis-je biaisé ?",
+      "answers": ["Non", "Oui", "Bien sûr"],
+      "correct": [false, false, true],
+      "user": [false, false, false]
+    },
+    {
+      "name": "Ces questions sont-elles pertinentes ?",
+      "answers": ["Bof", "Pas du tout", "Oui"],
+      "correct": [false, true, false],
+      "user": [false, false, false]
+    }
+]
